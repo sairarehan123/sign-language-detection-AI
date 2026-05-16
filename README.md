@@ -5,7 +5,7 @@ This project is an AI-based real-time American Sign Language (ASL) detection sys
 
 It uses **MediaPipe** for real-time hand landmark detection and a **Random Forest Machine Learning model** to classify sign language gestures into corresponding alphabets.
 
-The system detects hand movements through a camera feed, processes hand landmarks, and predicts the sign being shown. For example, sequential gestures like **S + E + L + L + O** can be interpreted as a word.
+The system detects hand movements through a camera feed, processes hand landmarks, and predicts the sign being shown. For example, sequential gestures like **H+ E + L + L + O** can be interpreted as a word.
 
 ---
 
